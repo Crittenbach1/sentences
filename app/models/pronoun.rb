@@ -1,0 +1,4 @@
+class Pronoun < ApplicationRecord
+
+
+end
