@@ -1,4 +1,0 @@
-class Noun < ApplicationRecord
-
-
-end

@@ -1,4 +1,0 @@
-class Pronoun < ApplicationRecord
-
-
-end

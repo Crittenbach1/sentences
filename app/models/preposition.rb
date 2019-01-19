@@ -1,4 +1,0 @@
-class Preposition < ApplicationRecord
-
-
-end
